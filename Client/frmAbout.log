@@ -1,0 +1,17 @@
+Line 16: Class RemoteUSBServer.lvButtons_H of control lvButtons_H1 was not a loaded control class.
+Line 17: The property name Cancel in lvButtons_H1 is invalid.
+Line 18: The property name Default in lvButtons_H1 is invalid.
+Line 25: The property name _ExtentX in lvButtons_H1 is invalid.
+Line 26: The property name _ExtentY in lvButtons_H1 is invalid.
+Line 27: The property name Caption in lvButtons_H1 is invalid.
+Line 28: The property name CapAlign in lvButtons_H1 is invalid.
+Line 29: The property name BackStyle in lvButtons_H1 is invalid.
+Line 39: The property name cFore in lvButtons_H1 is invalid.
+Line 40: The property name cFHover in lvButtons_H1 is invalid.
+Line 41: The property name LockHover in lvButtons_H1 is invalid.
+Line 42: The property name cGradient in lvButtons_H1 is invalid.
+Line 43: The property name CapStyle in lvButtons_H1 is invalid.
+Line 44: The property name Mode in lvButtons_H1 is invalid.
+Line 45: The property name Value in lvButtons_H1 is invalid.
+Line 46: The property name Image in lvButtons_H1 is invalid.
+Line 47: The property name cBack in lvButtons_H1 is invalid.

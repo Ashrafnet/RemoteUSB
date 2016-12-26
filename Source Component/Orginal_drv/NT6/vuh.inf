@@ -1,0 +1,89 @@
+;/*++
+;
+;Copyright (c) 2000-2010 ELTIMA Software
+;
+;Module Name:
+;
+;    UsbStub.inf
+;
+;Abstract:
+;    INF file for installing Eltima Virtual Usb Hub 
+;
+;--*/
+[Version]
+Signature="$WINDOWS NT$"
+Class=System
+ClassGuid={4D36E97D-E325-11CE-BFC1-08002BE10318}
+Provider=%MSFT%
+DriverVer=11/23/2010,4.0.383
+CatalogFile=UsbOverTcp.cat
+
+[DestinationDirs]
+DefaultDestDir = 12
+
+[SourceDisksNames]
+1 = %DiskId1%,,,""
+
+[SourceDisksFiles]
+vuhub.sys  = 1,,
+
+;*****************************************
+; VUHUB  Install Section
+;*****************************************
+
+[Manufacturer]
+%StdMfg%=Eltima, NTx86, NTia64, NTamd64
+
+; 2000
+[Eltima]
+%VUHUB.DeviceDesc%=VUHUB_Device, vuhub
+
+;x86
+[Eltima.NTx86]
+%VUHUB.DeviceDesc%=VUHUB_Device, vuhub
+
+;AMD64
+[Eltima.NTamd64]
+%VUHUB.DeviceDesc%=VUHUB_Device, vuhub
+
+;IA64
+[Eltima.NTia64]
+%VUHUB.DeviceDesc%=VUHUB_Device, vuhub
+
+
+[VUHUB_Device.NT]
+CopyFiles=Drivers_Dir
+
+[VUHUB_Device.NT.HW]
+AddReg=VUHUB_Device.NT.AddReg
+
+;[VUHUB_Device.NT.AddReg]                            
+;HKR,,DeviceCharacteristics,0x10001,0x0100         ; Use same security checks on relative opens
+;HKR,,Security,,"D:P(A;;GA;;;BA)(A;;GA;;;SY)"      ; Allow generic-all access to Built-in administrators and Local system 
+
+[Drivers_Dir]
+vuhub.sys
+
+
+;-------------- Service installation
+[VUHUB_Device.NT.Services]
+AddService = vuhub,%SPSVCINST_ASSOCSERVICE%, vuhub_Service_Inst
+
+; -------------- busenum driver install sections
+[vuhub_Service_Inst]
+DisplayName    = %vuhub.SVCDESC%
+ServiceType    = 1               ; SERVICE_KERNEL_DRIVER
+StartType      = 3               ; SERVICE_DEMAND_START 
+ErrorControl   = 1               ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\vuhub.sys
+LoadOrderGroup = Extended Base
+
+
+[Strings]
+SPSVCINST_ASSOCSERVICE= 0x00000002
+MSFT = "Eltima software"
+StdMfg = "ELTIMA Software"
+DiskId1 = "Virtual Usb Hub Disk #1"
+VUHUB.DeviceDesc = "Virtual Usb Hub"
+vuhub.SVCDESC = "Virtual Usb Hub"
+StdMfg="Eltima software"

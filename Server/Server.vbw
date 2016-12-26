@@ -1,0 +1,17 @@
+frmMain = 50, 50, 945, 459, , 25, 25, 920, 434, C
+modXPStyle = 0, 0, 0, 0, C
+modButton = 0, 0, 0, 0, C
+lvButtons_H = 100, 100, 1062, 509, , 175, 175, 1070, 584, C
+frmReg = 100, 100, 995, 509, C, 200, 200, 1095, 609, C
+frmAbout = 50, 50, 945, 459, , 25, 25, 920, 434, C
+ConsoleCapture = 25, 25, 920, 434, C
+modReg = 75, 75, 970, 484, C
+frmVPN = 75, 75, 970, 484, Z, 125, 125, 1020, 534, C
+modVPN = 175, 175, 1070, 584, C
+modTrans = 0, 0, 0, 0, C
+CSysInfoDevice = 150, 150, 1112, 559, C
+MHookXP = 67, 130, 1029, 539, C
+IHookXP = 0, 0, 0, 0, C
+MSysInfo = 0, 0, 0, 0, C
+modDLL = 200, 200, 928, 609, C
+modFunctions = 75, 75, 970, 484, 

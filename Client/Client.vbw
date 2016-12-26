@@ -1,0 +1,10 @@
+frmMain = 50, 50, 945, 459, Z, 25, 25, 920, 434, C
+modTrans = 0, 0, 0, 0, C
+modXPStyle = 200, 200, 1095, 609, C
+modButton = -7, 175, 955, 584, C
+lvButtons_H = 75, 75, 1037, 484, C, 125, 125, 1020, 534, C
+frmAbout = 50, 50, 945, 459, C, 200, 200, 1095, 609, C
+frmReg = 200, 200, 1095, 609, C, 175, 175, 1070, 584, C
+ConsoleCapture = 0, 0, 962, 409, C
+modReg = 0, 0, 0, 0, C
+modFunctions = 75, 75, 926, 484, C

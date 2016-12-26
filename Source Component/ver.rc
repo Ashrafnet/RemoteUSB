@@ -1,0 +1,28 @@
+
+1 VERSIONINFO
+FILEVERSION 1,0,383,0
+PRODUCTVERSION 1,0,383,0
+FILEOS 0x40004
+FILETYPE 0x3
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "CompanyName", "Desktop Team"
+		VALUE "FileDescription", "USB stub"
+		VALUE "FileVersion", "1.0.383"
+		VALUE "InternalName", "eusbstub.sys"
+		VALUE "LegalCopyright", "Copyright © Desktop Team 2006 2010"
+		VALUE "OriginalFilename", "usbstub.sys"
+		VALUE "ProductName", "Remote USB"
+		VALUE "ProductVersion", "1.0.383"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
+

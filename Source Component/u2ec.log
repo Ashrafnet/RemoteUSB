@@ -1,0 +1,332 @@
+05.02.2011 13:34:40  - ------------------------------------
+05.02.2011 13:34:40  -           Start service             
+05.02.2011 13:34:40  - ------------------------------------
+05.02.2011 13:36:51  - "RootHub#8\Port 4" was successfully shared on TCP port 3476
+05.02.2011 13:36:52  - The following device is available for sharing: My Passport 070A, "RootHub#8\Port 4" 
+05.02.2011 13:37:20  - Connection to "localhost" was added successfully
+05.02.2011 13:37:26  - "localhost:3476": trying to establish connection
+05.02.2011 13:37:26  - "localhost:3476": connection established
+05.02.2011 13:37:26  - Activating connection to remote device on "localhost:3476"
+05.02.2011 13:37:26  - "RootHub#8\Port 4 (My Passport 070A)" the following host was connected to the shared device: ll-PC
+05.02.2011 13:37:48  - "RootHub#8\Port 4" on TCP port 3476 was unshared successfully
+05.02.2011 13:37:48  - Deactivating connection to remote device on "localhost:3476"
+05.02.2011 13:37:48  - "localhost:3476" connection broken
+05.02.2011 13:37:48  - "localhost:3476": trying to establish connection
+05.02.2011 13:37:48  - Activating connection to remote device on "localhost:3476"
+06.02.2011 11:43:36  - Connection to "localhost:3476" was deleted
+06.02.2011 11:43:37  - Deactivating connection to remote device on "localhost:3476"
+06.02.2011 11:43:37  - "localhost:3476": connection established
+06.02.2011 11:43:38  - "localhost:3476": unable to establish connection
+06.02.2011 11:43:40  - ------------------------------------
+06.02.2011 11:43:40  -           Shutdown service             
+06.02.2011 11:43:40  - ------------------------------------
+06.02.2011 11:44:46  - Connection to "localhost:3476" was added successfully
+06.02.2011 11:44:47  - Activating connection to remote device on "localhost:3476"
+06.02.2011 11:44:47  - ------------------------------------
+06.02.2011 11:44:47  -           Start service             
+06.02.2011 11:44:47  - ------------------------------------
+06.02.2011 11:44:49  - "localhost:3476": trying to establish connection
+06.02.2011 14:05:34  - "RootHub#7\Port 3" was successfully shared on TCP port 3475
+06.02.2011 14:05:35  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 3" 
+06.02.2011 14:08:47  - "RootHub#7\Port 3" on TCP port 3475 was unshared successfully
+06.02.2011 14:08:48  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 3" 
+06.02.2011 14:09:25  - "RootHub#7\Port 3" was successfully shared on TCP port 3475
+06.02.2011 14:09:26  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 3" 
+06.02.2011 14:10:09  - "RootHub#7\Port 3" on TCP port 3475 was unshared successfully
+06.02.2011 14:20:30  - "RootHub#2\Port 2" was successfully shared on TCP port 3538
+06.02.2011 14:20:31  - The following device is available for sharing:  USB OPTICAL MOUSE, "RootHub#2\Port 2" 
+06.02.2011 14:20:51  - "RootHub#2\Port 2" on TCP port 3538 was unshared successfully
+06.02.2011 14:20:52  - The following device is available for sharing:  USB OPTICAL MOUSE, "RootHub#2\Port 2" 
+06.02.2011 17:12:32  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+06.02.2011 17:12:32  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 17:12:49  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+06.02.2011 17:13:44  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+06.02.2011 17:13:44  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 17:13:49  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+06.02.2011 17:17:52  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+06.02.2011 17:17:53  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 17:17:59  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+06.02.2011 17:18:00  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 17:20:09  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+06.02.2011 17:20:10  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 17:20:16  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+06.02.2011 17:20:17  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 17:27:55  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+06.02.2011 17:27:55  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 17:28:07  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+06.02.2011 17:28:08  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 17:28:14  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+06.02.2011 17:28:15  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 17:28:17  - Maximum allowed number of shared devices reached
+06.02.2011 17:28:17  - Error while sharing device "RootHub#8\Port 2" on TCP port 3458
+06.02.2011 17:28:24  - Maximum allowed number of shared devices reached
+06.02.2011 17:28:24  - Error while sharing device "RootHub#8\Port 2" on TCP port 3458
+06.02.2011 17:28:27  - Maximum allowed number of shared devices reached
+06.02.2011 17:28:27  - Error while sharing device "RootHub#8\Port 2" on TCP port 3458
+06.02.2011 22:37:02  - Maximum allowed number of shared devices reached
+06.02.2011 22:37:02  - Error while sharing device "RootHub#2\Port 2" on TCP port 3538
+06.02.2011 22:37:49  - Maximum allowed number of shared devices reached
+06.02.2011 22:37:49  - Error while sharing device "RootHub#2\Port 2" on TCP port 3538
+06.02.2011 22:37:56  - Maximum allowed number of shared devices reached
+06.02.2011 22:37:56  - Error while sharing device "RootHub#8\Port 2" on TCP port 3458
+06.02.2011 22:38:28  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+06.02.2011 22:38:49  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+06.02.2011 22:38:49  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 22:39:02  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+06.02.2011 22:39:02  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 22:39:59  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+06.02.2011 22:40:00  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 22:44:24  - Connection to "localhost" was added successfully
+06.02.2011 22:44:31  - "localhost:3473": trying to establish connection
+06.02.2011 22:44:31  - "localhost:3473": connection established
+06.02.2011 22:44:31  - "RootHub#8\Port 1 (USB Drive)" the following host was connected to the shared device: ll-PC
+06.02.2011 22:44:31  - Activating connection to remote device on "localhost:3473"
+06.02.2011 22:46:10  - "localhost:3473" connection broken
+06.02.2011 22:46:10  - Deactivating connection to remote device on "localhost:3473"
+06.02.2011 22:46:15  - The following device is available for sharing: USB Drive, "RootHub#8\Port 1" 
+06.02.2011 22:46:40  - "RootHub#8\Port 1" on TCP port 3473 was unshared successfully
+06.02.2011 22:47:43  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+06.02.2011 22:47:43  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 22:48:14  - "localhost:3473": trying to establish connection
+06.02.2011 22:48:14  - "localhost:3473": connection established
+06.02.2011 22:48:14  - "RootHub#7\Port 1 (USB Drive)" the following host was connected to the shared device: ll-PC
+06.02.2011 22:48:14  - Activating connection to remote device on "localhost:3473"
+06.02.2011 22:50:12  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+06.02.2011 22:50:12  - Deactivating connection to remote device on "localhost:3473"
+06.02.2011 22:50:12  - "localhost:3473" connection broken
+06.02.2011 22:50:12  - "localhost:3473": trying to establish connection
+06.02.2011 22:50:12  - Activating connection to remote device on "localhost:3473"
+06.02.2011 22:54:20  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+06.02.2011 22:54:20  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 22:54:20  - "localhost:3473": connection established
+06.02.2011 22:54:20  - "RootHub#7\Port 1 (USB Drive)" the following host was connected to the shared device: ll-PC
+06.02.2011 23:14:13  - "localhost:3473" connection broken
+06.02.2011 23:14:13  - Deactivating connection to remote device on "localhost:3473"
+06.02.2011 23:14:18  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+06.02.2011 23:16:18  - Connection to "localhost:3473" was deleted
+06.02.2011 23:19:15  - Maximum allowed number of shared devices reached
+06.02.2011 23:19:15  - Error while sharing device "RootHub#2\Port 2" on TCP port 3538
+06.02.2011 23:20:16  - Deactivating connection to remote device on "localhost:3476"
+06.02.2011 23:20:16  - "localhost:3476": connection established
+06.02.2011 23:20:17  - "localhost:3476": unable to establish connection
+06.02.2011 23:22:16  - "RootHub#8\Port 1" on TCP port 3473 was unshared successfully
+07.02.2011 09:46:53  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+07.02.2011 09:46:53  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+07.02.2011 09:50:16  - "localhost:3476": trying to establish connection
+07.02.2011 09:50:16  - Activating connection to remote device on "localhost:3476"
+07.02.2011 09:50:48  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+07.02.2011 09:53:56  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+07.02.2011 09:53:56  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+07.02.2011 09:54:16  - "localhost:3476": connection established
+07.02.2011 09:54:16  - Deactivating connection to remote device on "localhost:3476"
+07.02.2011 09:54:17  - "localhost:3476": unable to establish connection
+07.02.2011 09:54:22  - "localhost:3476": trying to establish connection
+07.02.2011 09:54:22  - Activating connection to remote device on "localhost:3476"
+07.02.2011 09:54:28  - Deactivating connection to remote device on "localhost:3476"
+07.02.2011 09:54:28  - "localhost:3476": connection established
+07.02.2011 09:54:29  - "localhost:3476": unable to establish connection
+07.02.2011 09:55:13  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+07.02.2011 09:55:42  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+07.02.2011 09:55:42  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+07.02.2011 10:00:58  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+07.02.2011 10:01:47  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+07.02.2011 10:04:26  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+07.02.2011 10:04:26  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+07.02.2011 10:07:12  - Connection to "localhost" was added successfully
+07.02.2011 10:07:17  - "localhost:3473": trying to establish connection
+07.02.2011 10:07:17  - "localhost:3473": connection established
+07.02.2011 10:07:17  - "RootHub#7\Port 1 (USB Drive)" the following host was connected to the shared device: ll-PC
+07.02.2011 10:07:17  - Activating connection to remote device on "localhost:3473"
+07.02.2011 10:08:12  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+07.02.2011 10:08:12  - Deactivating connection to remote device on "localhost:3473"
+07.02.2011 10:08:12  - "localhost:3473" connection broken
+07.02.2011 10:09:39  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+07.02.2011 10:09:39  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+07.02.2011 12:54:33  - "localhost:3473": trying to establish connection
+07.02.2011 12:54:33  - "localhost:3473": connection established
+07.02.2011 12:54:33  - "RootHub#7\Port 1 (USB Drive)" the following host was connected to the shared device: ll-PC
+07.02.2011 12:54:33  - Activating connection to remote device on "localhost:3473"
+07.02.2011 12:55:46  - "localhost:3473" connection broken
+07.02.2011 12:55:46  - Deactivating connection to remote device on "localhost:3473"
+07.02.2011 12:55:52  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+07.02.2011 12:58:21  - "localhost:3473": trying to establish connection
+07.02.2011 12:58:21  - "localhost:3473": connection established
+07.02.2011 12:58:21  - "RootHub#7\Port 1 (USB Drive)" the following host was connected to the shared device: ll-PC
+07.02.2011 12:58:21  - Activating connection to remote device on "localhost:3473"
+07.02.2011 12:58:31  - Deactivating connection to remote device on "localhost:3473"
+07.02.2011 12:58:31  - "localhost:3473" connection broken
+07.02.2011 12:58:31  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+07.02.2011 13:17:32  - "localhost:3473": trying to establish connection
+07.02.2011 13:17:32  - "localhost:3473": connection established
+07.02.2011 13:17:32  - "RootHub#7\Port 1 (USB Drive)" the following host was connected to the shared device: ll-PC
+07.02.2011 13:17:32  - Activating connection to remote device on "localhost:3473"
+07.02.2011 13:21:36  - "localhost:3473" connection broken
+07.02.2011 13:21:36  - Deactivating connection to remote device on "localhost:3473"
+07.02.2011 13:21:37  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+07.02.2011 13:43:06  - "localhost:3473": trying to establish connection
+07.02.2011 13:43:06  - "localhost:3473": connection established
+07.02.2011 13:43:06  - "RootHub#7\Port 1 (USB Drive)" the following host was connected to the shared device: ll-PC
+07.02.2011 13:43:06  - Activating connection to remote device on "localhost:3473"
+07.02.2011 14:13:38  - "localhost:3473" connection broken
+07.02.2011 14:13:38  - Deactivating connection to remote device on "localhost:3473"
+07.02.2011 14:13:43  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+07.02.2011 14:13:45  - "localhost:3473": trying to establish connection
+07.02.2011 14:13:45  - "localhost:3473": connection established
+07.02.2011 14:13:45  - "RootHub#7\Port 1 (USB Drive)" the following host was connected to the shared device: ll-PC
+07.02.2011 14:13:45  - Activating connection to remote device on "localhost:3473"
+07.02.2011 14:13:49  - "localhost:3473" connection broken
+07.02.2011 14:13:49  - Deactivating connection to remote device on "localhost:3473"
+07.02.2011 14:13:51  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+07.02.2011 14:19:56  - "localhost:3473": trying to establish connection
+07.02.2011 14:19:56  - "localhost:3473": connection established
+07.02.2011 14:19:56  - "RootHub#7\Port 1 (USB Drive)" the following host was connected to the shared device: ll-PC
+07.02.2011 14:19:56  - Activating connection to remote device on "localhost:3473"
+07.02.2011 14:20:06  - "localhost:3473" connection broken
+07.02.2011 14:20:06  - Deactivating connection to remote device on "localhost:3473"
+07.02.2011 14:20:11  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+07.02.2011 14:22:25  - Maximum allowed number of shared devices reached
+07.02.2011 14:22:25  - Error while sharing device "RootHub#7\Port 4" on TCP port 3476
+07.02.2011 14:22:33  - Maximum allowed number of shared devices reached
+07.02.2011 14:22:33  - Error while sharing device "RootHub#7\Port 4" on TCP port 3476
+07.02.2011 14:23:36  - Maximum allowed number of shared devices reached
+07.02.2011 14:23:36  - Error while sharing device "RootHub#7\Port 4" on TCP port 3476
+07.02.2011 14:23:48  - Maximum allowed number of shared devices reached
+07.02.2011 14:23:48  - Error while sharing device "RootHub#7\Port 4" on TCP port 3476
+07.02.2011 14:24:04  - Maximum allowed number of shared devices reached
+07.02.2011 14:24:04  - Error while sharing device "RootHub#7\Port 4" on TCP port 3476
+07.02.2011 14:24:34  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+07.02.2011 14:24:47  - Error while sharing device "RootHub#7\Port 4" on TCP port 3476
+07.02.2011 14:25:01  - "RootHub#7\Port 4" was successfully shared on TCP port 3476
+07.02.2011 14:25:01  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 4" 
+07.02.2011 14:28:54  - Maximum allowed number of shared devices reached
+07.02.2011 14:28:54  - Error while sharing device "RootHub#7\Port 1" on TCP port 3473
+07.02.2011 14:29:22  - "localhost:3476": trying to establish connection
+07.02.2011 14:29:22  - "localhost:3476": connection established
+07.02.2011 14:29:22  - "RootHub#7\Port 4 (My Passport 070A)" the following host was connected to the shared device: ll-PC
+07.02.2011 14:29:22  - Activating connection to remote device on "localhost:3476"
+07.02.2011 14:30:35  - "RootHub#7\Port 4" on TCP port 3476 was unshared successfully
+07.02.2011 14:30:35  - Deactivating connection to remote device on "localhost:3476"
+07.02.2011 14:31:05  - "localhost:3476" connection broken
+07.02.2011 14:33:10  - Connection to "localhost:3473" was deleted
+07.02.2011 14:33:13  - Connection to "localhost:3476" was deleted
+07.02.2011 14:33:24  - "RootHub#7\Port 4" was successfully shared on TCP port 3476
+07.02.2011 14:33:25  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 4" 
+07.02.2011 14:34:41  - Connection to "localhost" was added successfully
+07.02.2011 14:34:50  - "localhost:3476": trying to establish connection
+07.02.2011 14:34:50  - "localhost:3476": connection established
+07.02.2011 14:34:50  - "RootHub#7\Port 4 (My Passport 070A)" the following host was connected to the shared device: ll-PC
+07.02.2011 14:34:50  - Activating connection to remote device on "localhost:3476"
+07.02.2011 14:35:09  - "RootHub#8\Port 4" on TCP port 3476 was unshared successfully
+07.02.2011 14:35:09  - Deactivating connection to remote device on "localhost:3476"
+07.02.2011 14:35:09  - "localhost:3476" connection broken
+07.02.2011 14:35:25  - "localhost:3476": trying to establish connection
+07.02.2011 14:35:25  - Activating connection to remote device on "localhost:3476"
+07.02.2011 14:37:52  - "RootHub#7\Port 4" was successfully shared on TCP port 3476
+07.02.2011 14:37:53  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 4" 
+07.02.2011 14:37:53  - "localhost:3476": connection established
+07.02.2011 14:37:53  - "RootHub#7\Port 4 (My Passport 070A)" the following host was connected to the shared device: ll-PC
+07.02.2011 14:38:04  - Connection to "localhost:3476" was deleted
+07.02.2011 14:38:04  - Deactivating connection to remote device on "localhost:3476"
+07.02.2011 14:38:04  - "localhost:3476" connection broken
+07.02.2011 14:38:04  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 4" 
+07.02.2011 14:38:13  - Connection to "localhost" was added successfully
+07.02.2011 14:38:29  - Connection to "localhost:3476" was deleted
+07.02.2011 14:39:38  - Connection to "localhost" was added successfully
+07.02.2011 14:40:05  - "localhost:3476": trying to establish connection
+07.02.2011 14:40:05  - "localhost:3476": connection established
+07.02.2011 14:40:05  - "RootHub#7\Port 4 (My Passport 070A)" the following host was connected to the shared device: ll-PC
+07.02.2011 14:40:05  - Activating connection to remote device on "localhost:3476"
+07.02.2011 14:40:20  - "localhost:3476" connection broken
+07.02.2011 14:40:20  - Deactivating connection to remote device on "localhost:3476"
+07.02.2011 14:40:21  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 4" 
+07.02.2011 14:40:22  - Connection to "localhost:3476" was deleted
+07.02.2011 14:43:18  - Connection to "Localhost" was added successfully
+07.02.2011 14:43:18  - "Localhost:3476": trying to establish connection
+07.02.2011 14:43:18  - "Localhost:3476": connection established
+07.02.2011 14:43:18  - "RootHub#7\Port 4 (My Passport 070A)" the following host was connected to the shared device: ll-PC
+07.02.2011 14:43:18  - Activating connection to remote device on "Localhost:3476"
+07.02.2011 14:43:22  - "Localhost:3476" connection broken
+07.02.2011 14:43:22  - Deactivating connection to remote device on "Localhost:3476"
+07.02.2011 14:43:22  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 4" 
+07.02.2011 14:43:44  - Connection to "Localhost:3476" was deleted
+07.02.2011 14:47:00  - CService: error listening to port 5475
+07.02.2011 14:48:11  - CService: error listening to port 5475
+07.02.2011 14:50:40  - "RootHub#7\Port 4" was successfully shared on TCP port 3476
+07.02.2011 14:50:40  - ------------------------------------
+07.02.2011 14:50:40  -           Start service             
+07.02.2011 14:50:40  - ------------------------------------
+07.02.2011 14:52:29  - "RootHub#8\Port 4" on TCP port 3476 was unshared successfully
+07.02.2011 14:53:33  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+07.02.2011 14:53:33  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 1" 
+07.02.2011 14:54:01  - Connection to "Localhost" was added successfully
+07.02.2011 14:54:01  - "Localhost:3473": trying to establish connection
+07.02.2011 14:54:01  - Activating connection to remote device on "Localhost:3473"
+07.02.2011 14:54:01  - "Localhost:3473": connection established
+07.02.2011 14:54:01  - "RootHub#7\Port 1 (My Passport 070A)" the following host was connected to the shared device: ll-PC
+07.02.2011 14:55:24  - "Localhost:3473" connection broken
+07.02.2011 14:55:24  - Deactivating connection to remote device on "Localhost:3473"
+07.02.2011 14:55:28  - "Localhost:3473": trying to establish connection
+07.02.2011 14:55:28  - Activating connection to remote device on "Localhost:3473"
+07.02.2011 14:55:29  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 1" 
+07.02.2011 14:55:29  - "Localhost:3473": connection established
+07.02.2011 14:55:29  - "RootHub#7\Port 1 (My Passport 070A)" the following host was connected to the shared device: ll-PC
+07.02.2011 14:55:42  - "Localhost:3473" connection broken
+07.02.2011 14:55:42  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 1" 
+07.02.2011 14:55:42  - Deactivating connection to remote device on "Localhost:3473"
+07.02.2011 14:56:34  - "Localhost:3473": trying to establish connection
+07.02.2011 14:56:34  - "Localhost:3473": connection established
+07.02.2011 14:56:34  - "RootHub#7\Port 1 (My Passport 070A)" the following host was connected to the shared device: ll-PC
+07.02.2011 14:56:34  - Activating connection to remote device on "Localhost:3473"
+07.02.2011 14:56:38  - Connection to "Localhost:3473" was deleted
+07.02.2011 14:56:38  - "Localhost:3473" connection broken
+07.02.2011 14:56:38  - Deactivating connection to remote device on "Localhost:3473"
+07.02.2011 14:56:46  - The following device is available for sharing: My Passport 070A, "RootHub#7\Port 1" 
+07.02.2011 14:58:38  - Connection to "192.168.1.5" was added successfully
+07.02.2011 14:58:43  - "192.168.1.5:3473": trying to establish connection
+07.02.2011 14:58:43  - "192.168.1.5:3473": connection established
+07.02.2011 14:58:43  - "RootHub#8\Port 1 (My Passport 070A)" the following host was connected to the shared device: ll-PC
+07.02.2011 14:58:43  - Activating connection to remote device on "192.168.1.5:3473"
+07.02.2011 14:59:07  - "RootHub#8\Port 1" on TCP port 3473 was unshared successfully
+07.02.2011 14:59:07  - Deactivating connection to remote device on "192.168.1.5:3473"
+07.02.2011 14:59:07  - "192.168.1.5:3473" connection broken
+07.02.2011 15:03:53  - Connection to "192.168.1.5:3473" was deleted
+07.02.2011 15:03:55  - ------------------------------------
+07.02.2011 15:03:55  -           Shutdown service             
+07.02.2011 15:03:55  - ------------------------------------
+07.02.2011 15:05:37  - Connection to "192.168.1.5:3473" was added successfully
+07.02.2011 15:05:37  - ------------------------------------
+07.02.2011 15:05:37  -           Start service             
+07.02.2011 15:05:37  - ------------------------------------
+07.02.2011 22:40:14  - Connection to "192.168.1.5:3473" was deleted
+07.02.2011 22:40:15  - ------------------------------------
+07.02.2011 22:40:15  -           Shutdown service             
+07.02.2011 22:40:15  - ------------------------------------
+07.02.2011 22:41:18  - Connection to "192.168.1.5:3473" was added successfully
+07.02.2011 22:41:18  - ------------------------------------
+07.02.2011 22:41:18  -           Start service             
+07.02.2011 22:41:18  - ------------------------------------
+08.02.2011 16:05:48  - "RootHub#7\Port 1" was successfully shared on TCP port 3473
+08.02.2011 16:05:49  - The following device is available for sharing: USB Drive, "RootHub#7\Port 1" 
+08.02.2011 16:06:01  - Maximum allowed number of shared devices reached
+08.02.2011 16:06:01  - Error while sharing device "RootHub#7\Port 3" on TCP port 3475
+08.02.2011 16:06:41  - Maximum allowed number of shared devices reached
+08.02.2011 16:06:41  - Error while sharing device "RootHub#7\Port 3" on TCP port 3475
+08.02.2011 16:19:32  - "RootHub#7\Port 1" on TCP port 3473 was unshared successfully
+09.02.2011 11:17:06  - 1 96
+09.02.2011 11:17:06  - Connection to "192.168.1.5:3473" was deleted
+09.02.2011 11:17:07  - ------------------------------------
+09.02.2011 11:17:07  -           Stop service             
+09.02.2011 11:17:07  - ------------------------------------
+09.02.2011 11:23:19  - 1 96
+09.02.2011 11:30:55  - Connection to "192.168.1.5:3473" was added successfully
+09.02.2011 11:30:55  - ------------------------------------
+09.02.2011 11:30:55  -           Start service             
+09.02.2011 11:30:55  - ------------------------------------
+09.02.2011 11:33:46  - Connection to "192.168.1.5:3473" was deleted
+09.02.2011 11:33:48  - ------------------------------------
+09.02.2011 11:33:48  -           Stop service             
+09.02.2011 11:33:48  - ------------------------------------
+09.02.2011 11:35:09  - Connection to "192.168.1.5:3473" was added successfully
+09.02.2011 11:35:09  - ------------------------------------
+09.02.2011 11:35:09  -           Start service             
+09.02.2011 11:35:09  - ------------------------------------

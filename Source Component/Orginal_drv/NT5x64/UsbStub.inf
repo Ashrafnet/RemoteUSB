@@ -1,0 +1,84 @@
+;/*++
+;
+;Copyright (c) 2000-2010 ELTIMA Software
+;
+;Module Name:
+;
+;    UsbStub.inf
+;
+;Abstract:
+;    INF file for installing Usb Stub
+;
+;--*/
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=EltimaUsbStub
+ClassGuid={BA60D326-EE12-4957-B702-7F5EDBE9ECE5}
+Provider=%ELTIMA%
+DriverVer=11/23/2010,4.0.383
+CatalogFile=UsbOverTcp.cat
+
+[DestinationDirs]
+DefaultDestDir = 12
+
+[ClassInstall32]
+Addreg=EltimaUsbStubClassReg     
+
+[EltimaUsbStubClassReg]
+HKR,,,0,%ClassName%
+HKR,,Icon,,-20
+HKR,,SilentInstall,,1
+HKR,,NoInstallClass,,1
+
+
+[Manufacturer]
+%StdMfg%=Eltima, NTx86, NTia64, NTamd64
+
+;x86
+[Eltima.NTx86]
+%UsbStubDevice.DeviceDesc%=UsbStub, UsbEStub
+
+;AMD64
+[Eltima.NTamd64]
+%UsbStubDevice.DeviceDesc%=UsbStub, UsbEStub
+
+;IA64
+[Eltima.NTia64]
+%UsbStubDevice.DeviceDesc%=UsbStub, UsbEStub
+
+
+[UsbStub.NT]
+CopyFiles=UsbStub.NT.Copy
+
+[UsbStub.NT.Copy]
+eusbstub.sys
+
+;-------------- Service installation
+
+[UsbStub.NT.Services]
+AddService = eustub, %SPSVCINST_ASSOCSERVICE%, UsbStub_Service_Inst
+
+; -------------- VSerial Driver install sections
+[UsbStub_Service_Inst]
+DisplayName    = %UsbStub.SVCDESC%
+ServiceType    = 1               ; SERVICE_KERNEL_DRIVER
+StartType      = 3               ; SERVICE_DEMAND_START 
+ErrorControl   = 1               ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\eusbstub.sys
+LoadOrderGroup = Extended Base
+
+[SourceDisksNames]
+1 = %DiskId1%,,,""
+
+[SourceDisksFiles]
+eusbstub.sys  = 1,,
+
+[Strings]
+SPSVCINST_ASSOCSERVICE= 0x00000002
+ELTIMA = "ELTIMA Software"
+ClassName = "Eltima Usb Stub"
+UsbStubDevice.DeviceDesc = "Usb Stub (Eltima software)"
+UsbStub.SVCDESC = "Usb Stub (Eltima software)"
+DiskId1 = "Share USB Device over Ethernet Disk #1"
+StdMfg="Eltima software"
